@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "SmarterThanMeLines"
+include ':openCVLibrary3413'
